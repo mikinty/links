@@ -1,2 +1,3 @@
-# links
-Useful links
+# `links`
+
+- [Remote Tech Job Openings](https://hiring.cafe/)
